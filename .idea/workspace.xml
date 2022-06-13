@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f095731-1fb6-400f-baed-43317d8e64df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/reflectGenericArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflectionTest.java" afterDir="false" />
     </list>
@@ -47,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.reflectionTest">
+  <component name="RunManager" selected="Application.reflectGenericArrayTest">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListDemo" />
       <module name="review_java" />
@@ -69,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuotientWithException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuotientWithException" />
+    <configuration name="reflectGenericArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflectGenericArrayTest" />
       <module name="review_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reflectGenericArrayTest" />
         <item itemvalue="Application.reflectionTest" />
         <item itemvalue="Application.EnumTest" />
         <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.InputMismatchExceptionDemo" />
-        <item itemvalue="Application.QuotientWithException" />
       </list>
     </recent_temporary>
   </component>

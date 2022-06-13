@@ -25,7 +25,7 @@ public class reflectionTest {
             System.out.println(i.getName());
         }
         System.out.println("--------------get declared fields");
-        for (var j: cl.getDeclaredFields()) {
+        for (var j : cl.getDeclaredFields()) {
             System.out.println(j.getName());
         }
 
@@ -49,7 +49,7 @@ public class reflectionTest {
     }
 }
 
-class RefTest extends RefTestFather{
+class RefTest extends RefTestFather {
     private int field1;
     public int field2;
 
