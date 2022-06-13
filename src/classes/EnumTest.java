@@ -1,3 +1,5 @@
+package classes;
+
 public class EnumTest {
     public static void main(String[] args) {
         System.out.println(Size.SMALL.getAbbreviation());
@@ -13,7 +15,7 @@ public class EnumTest {
 }
 
 /*
-Size is actually a kind of class, but with limited instance
+classes.Size is actually a kind of class, but with limited instance
  */
 enum Size {
     SMALL("S"), MEDIUM("M"), LARGE("L"), EXTRA_LARGE("XL");

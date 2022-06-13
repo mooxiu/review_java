@@ -1,5 +1,6 @@
+package classes;
+
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.UUID;
 
 /*
@@ -75,7 +76,7 @@ public class ArrayListDemo {
             System.out.println(ele.getName());
         }
 
-        // use variable args of Employ
+        // use variable args of classes.Employ
         var sum = ele0.varArgs(1, 2, 3, 4, 5);
         System.out.println(sum);
     }
@@ -105,6 +106,6 @@ class Employ {
 
     @Override
     public String toString() {
-        return "Employ with name: " + this.name;
+        return "classes.Employ with name: " + this.name;
     }
 }

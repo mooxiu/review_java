@@ -1,4 +1,5 @@
-import java.lang.reflect.Field;
+package classes;
+
 import java.lang.reflect.InvocationTargetException;
 
 public class reflectionTest {
@@ -33,7 +34,7 @@ public class reflectionTest {
         // also by using the class name
         System.out.println("=================");
         try {
-            var cl2 = Class.forName("RefTest");
+            var cl2 = Class.forName("classes.RefTest");
             System.out.println(cl2);
             for (var i : cl2.getMethods()) {
                 System.out.println(i.getName());

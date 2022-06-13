@@ -1,5 +1,6 @@
+package classes;
+
 import java.lang.reflect.InvocationTargetException;
-import java.util.Random;
 
 /*
 Use reflect to invoke method

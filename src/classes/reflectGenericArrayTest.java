@@ -1,3 +1,5 @@
+package classes;
+
 import org.jetbrains.annotations.NotNull;
 
 import java.lang.reflect.Array;
@@ -5,7 +7,7 @@ import java.util.Arrays;
 
 public class reflectGenericArrayTest {
     /*
-    The problem of this method, you cannot cast object[] to ExampleClass[]
+    The problem of this method, you cannot cast object[] to classes.ExampleClass[]
      */
     public static Object @NotNull [] badCopy(Object[] a, int newLen) {
         var newArray = new Object[newLen];

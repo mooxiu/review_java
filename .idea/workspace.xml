@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f095731-1fb6-400f-baed-43317d8e64df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/reflectOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/stacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Employ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/InterfaceGeneralTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/EnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflectGenericArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/reflectGenericArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflectOnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/reflectOnMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/reflectionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,37 +58,43 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.reflectOnMethod">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListDemo" />
+  <component name="RunManager" selected="Application.InterfaceGeneralTest">
+    <configuration name="InterfaceGeneralTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.InterfaceGeneralTest" />
+      <module name="review_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="classes.EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.EnumTest" />
       <module name="review_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnumTest" />
+    <configuration name="classes.reflectGenericArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.reflectGenericArrayTest" />
       <module name="review_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reflectGenericArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reflectGenericArrayTest" />
+    <configuration name="classes.reflectOnMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.reflectOnMethod" />
       <module name="review_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reflectOnMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reflectOnMethod" />
-      <module name="review_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="reflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reflectionTest" />
+    <configuration name="classes.reflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.reflectionTest" />
       <module name="review_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.reflectOnMethod" />
-        <item itemvalue="Application.reflectGenericArrayTest" />
-        <item itemvalue="Application.reflectionTest" />
-        <item itemvalue="Application.EnumTest" />
-        <item itemvalue="Application.ArrayListDemo" />
+        <item itemvalue="Application.InterfaceGeneralTest" />
+        <item itemvalue="Application.classes.reflectOnMethod" />
+        <item itemvalue="Application.classes.reflectGenericArrayTest" />
+        <item itemvalue="Application.classes.reflectionTest" />
+        <item itemvalue="Application.classes.EnumTest" />
       </list>
     </recent_temporary>
   </component>
