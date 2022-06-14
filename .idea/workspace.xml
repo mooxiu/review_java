@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f095731-1fb6-400f-baed-43317d8e64df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/stacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Employ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/InterfaceGeneralTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/InterfaceDefaultMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/ArrayListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/EnumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflectGenericArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/reflectGenericArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflectOnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/reflectOnMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/reflectionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
