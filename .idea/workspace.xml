@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f095731-1fb6-400f-baed-43317d8e64df" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/ComparatorInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/ObjectCloneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DefaultMethodConflicts2">
+  <component name="RunManager" selected="Application.ObjectCloneTest">
+    <configuration name="ComparatorInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.ComparatorInterface" />
+      <module name="review_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DefaultMethodConflicts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaces.DefaultMethodConflicts" />
       <module name="review_java" />
@@ -95,27 +110,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classes.reflectGenericArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.reflectGenericArrayTest" />
+    <configuration name="ObjectCloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.ObjectCloneTest" />
       <module name="review_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="classes.reflectOnMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.reflectOnMethod" />
-      <module name="review_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectCloneTest" />
+        <item itemvalue="Application.ComparatorInterface" />
         <item itemvalue="Application.DefaultMethodConflicts2" />
         <item itemvalue="Application.DefaultMethodConflicts" />
         <item itemvalue="Application.InterfaceGeneralTest" />
-        <item itemvalue="Application.classes.reflectOnMethod" />
-        <item itemvalue="Application.classes.reflectGenericArrayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +145,10 @@
       <workItem from="1655402610985" duration="268000" />
       <workItem from="1655402908312" duration="20000" />
       <workItem from="1655541870753" duration="211000" />
-      <workItem from="1655542088738" duration="2174000" />
+      <workItem from="1655542088738" duration="4623000" />
+      <workItem from="1655643790632" duration="2759000" />
+      <workItem from="1655980467871" duration="1434000" />
+      <workItem from="1655984899395" duration="376000" />
     </task>
     <servers />
   </component>
