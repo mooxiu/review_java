@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f095731-1fb6-400f-baed-43317d8e64df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/functional/Strategize.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -65,20 +66,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueueDemo">
-    <configuration name="CrossCollectionIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.CrossCollectionIteration" />
-      <module name="review_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Strategize">
     <configuration name="QueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.QueueDemo" />
       <module name="review_java" />
@@ -131,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Strategize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.Strategize" />
+      <module name="review_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Strategize" />
         <item itemvalue="Application.QueueDemo" />
         <item itemvalue="Application.Statistics" />
         <item itemvalue="Application.SetOfInteger" />
         <item itemvalue="Application.StackTest" />
-        <item itemvalue="Application.CrossCollectionIteration" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +161,7 @@
       <workItem from="1656235406913" duration="287000" />
       <workItem from="1656245612906" duration="6345000" />
       <workItem from="1656332993034" duration="7794000" />
-      <workItem from="1656434901601" duration="476000" />
+      <workItem from="1656434901601" duration="1687000" />
     </task>
     <servers />
   </component>
