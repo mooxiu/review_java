@@ -124,7 +124,7 @@ public class AtUnit implements ProcessFiles.Strategy {
       throw new RuntimeException("@TestObjectCreate " +
         "must return instance of Class to be tested");
     if((m.getModifiers() &
-         Modifier.STATIC) < 1)
+         java.lang.reflect.Modifier.STATIC) < 1)
       throw new RuntimeException("@TestObjectCreate " +
         "must be static.");
     m.setAccessible(true);
@@ -138,7 +138,7 @@ public class AtUnit implements ProcessFiles.Strategy {
       throw new RuntimeException("@TestObjectCleanup " +
         "must return void");
     if((m.getModifiers() &
-        Modifier.STATIC) < 1)
+        java.lang.reflect.Modifier.STATIC) < 1)
       throw new RuntimeException("@TestObjectCleanup " +
         "must be static.");
     if(m.getParameterTypes().length == 0 ||

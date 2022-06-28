@@ -186,7 +186,7 @@ public interface Rand {
     }
     public java.lang.Double[] array(int sz) {
       double[] primitive =
-        new Pdouble().array(sz);
+        new Rand.Pdouble().array(sz);
       java.lang.Double[] result =
         new java.lang.Double[sz];
       for(int i = 0; i < sz; i++)
