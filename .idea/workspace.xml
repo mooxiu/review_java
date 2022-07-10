@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f095731-1fb6-400f-baed-43317d8e64df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/generics/Amphibian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/RandomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/TupleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/coffee/Americano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/coffee/Breve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/coffee/Cappuccino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/coffee/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/coffee/CoffeeSupplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/coffee/Latte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/coffee/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/IterableFibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +70,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CoffeeSupplier">
+  <component name="RunManager" selected="Application.IterableFibonacci">
     <configuration name="CoffeeSupplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generics.coffee.CoffeeSupplier" />
       <module name="review_java" />
@@ -94,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.LinkedStack" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.Fibonacci" />
       <module name="review_java" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +97,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectHolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.ObjectHolder" />
+    <configuration name="IterableFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.IterableFibonacci" />
+      <module name="review_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.LinkedStack" />
       <module name="review_java" />
       <extension name="coverage">
         <pattern>
@@ -133,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TupleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.TupleTest" />
-      <module name="review_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IterableFibonacci" />
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.CoffeeSupplier" />
         <item itemvalue="Application.RandomList" />
         <item itemvalue="Application.LinkedStack" />
-        <item itemvalue="Application.TupleTest" />
-        <item itemvalue="Application.ObjectHolder" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +171,8 @@
       <workItem from="1656603113097" duration="31000" />
       <workItem from="1656603252908" duration="291000" />
       <workItem from="1657038783465" duration="1744000" />
-      <workItem from="1657388592910" duration="3260000" />
+      <workItem from="1657388592910" duration="3521000" />
+      <workItem from="1657427217831" duration="544000" />
     </task>
     <servers />
   </component>
