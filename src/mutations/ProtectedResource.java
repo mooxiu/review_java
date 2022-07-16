@@ -25,7 +25,7 @@ public class ProtectedResource {
     public static void main(String[] args) throws IllegalAccessException {
         var p = new ProtectedResource();
         var allowedUsers = p.getAllowedUsers();
-        allowedUsers[0] = "k";
+        allowedUsers[0] = p.currentUser();
         p.useTheResource();
     }
 }
