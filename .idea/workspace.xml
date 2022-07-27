@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f095731-1fb6-400f-baed-43317d8e64df" name="Changes" comment="" />
+    <list default="true" id="1f095731-1fb6-400f-baed-43317d8e64df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/concurrency/thread_coordination/ComplexCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/thread_coordination/ThreadInterrupt1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/thread_coordination/ThreadInterrupt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/thread_coordination/ThreadInterrupt2WithDeamon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/thread_coordination/ThreadInterrupt3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/thread_coordination/ThreadJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/thread_coordination/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,13 +77,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.concurrency.thread_creation.MultiExecutor">
-    <configuration name="concurrency.thread_creation.MultiExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.thread_creation.MultiExecutor" />
+  <component name="RunManager" selected="Application.ThreadJoin">
+    <configuration name="ThreadInterrupt1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.thread_coordination.ThreadInterrupt1" />
       <module name="review_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.thread_creation.*" />
+          <option name="PATTERN" value="concurrency.thread_coordination.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="concurrency.thread_creation.ThreadCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.thread_creation.ThreadCreation" />
+    <configuration name="ThreadInterrupt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.thread_coordination.ThreadInterrupt2" />
       <module name="review_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.thread_creation.*" />
+          <option name="PATTERN" value="concurrency.thread_coordination.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="concurrency.thread_creation.ThreadCreation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.thread_creation.ThreadCreation2" />
+    <configuration name="ThreadInterrupt2WithDeamon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.thread_coordination.ThreadInterrupt2WithDeamon" />
       <module name="review_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.thread_creation.*" />
+          <option name="PATTERN" value="concurrency.thread_coordination.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="concurrency.thread_creation.ThreadException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.thread_creation.ThreadException" />
+    <configuration name="ThreadInterrupt3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.thread_coordination.ThreadInterrupt3" />
       <module name="review_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.thread_creation.*" />
+          <option name="PATTERN" value="concurrency.thread_coordination.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="concurrency.thread_creation.VaultHackingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.thread_creation.VaultHackingGame" />
+    <configuration name="ThreadJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.thread_coordination.ThreadJoin" />
       <module name="review_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.thread_creation.*" />
+          <option name="PATTERN" value="concurrency.thread_coordination.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.concurrency.thread_creation.MultiExecutor" />
-        <item itemvalue="Application.concurrency.thread_creation.VaultHackingGame" />
-        <item itemvalue="Application.concurrency.thread_creation.ThreadCreation2" />
-        <item itemvalue="Application.concurrency.thread_creation.ThreadException" />
-        <item itemvalue="Application.concurrency.thread_creation.ThreadCreation" />
+        <item itemvalue="Application.ThreadJoin" />
+        <item itemvalue="Application.ThreadInterrupt3" />
+        <item itemvalue="Application.ThreadInterrupt2WithDeamon" />
+        <item itemvalue="Application.ThreadInterrupt2" />
+        <item itemvalue="Application.ThreadInterrupt1" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +184,8 @@
       <workItem from="1657978732323" duration="1339000" />
       <workItem from="1658073653562" duration="100000" />
       <workItem from="1658828720876" duration="7583000" />
+      <workItem from="1658913201572" duration="2196000" />
+      <workItem from="1658915448780" duration="4948000" />
     </task>
     <servers />
   </component>
