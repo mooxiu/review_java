@@ -1,4 +1,4 @@
-package concurrency;
+package concurrency.thread_creation;
 
 public class ThreadCreation2 {
     public static void main(String[] args) {

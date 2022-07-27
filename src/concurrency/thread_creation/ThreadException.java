@@ -1,4 +1,4 @@
-package concurrency;
+package concurrency.thread_creation;
 
 public class ThreadException {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package concurrency;
-
-import reflection.interfacea.A;
+package concurrency.thread_creation;
 
 import java.util.ArrayList;
 import java.util.List;
